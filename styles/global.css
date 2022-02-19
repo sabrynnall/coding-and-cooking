@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+}
+
+.container-logo {
+    background-color: #FF93B3;
+    text-align: center;
+    height: 110px;
+}
+
+nav {
+    background-color: #765637;
+    text-align: center;
+}
+
+* {
+    font-family: 'Montserrat';
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    height: 30px;
+}
+
+.menu-item {
+    display: inline-flex;
+}
+
+.menu-item-link {
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    margin: 5px 30px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.menu-item-link:hover {
+    color: #FF93B3;
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+#conteudo-principal {
+    padding: 80px 120px;
+}
+
+.titulo1 {
+    color: #FF93B3;
+    font-size: 30px;
+}
+
+.imagem-principal {
+    width: 592px;
+    height: 311px;
+}
+
+.botoes {
+    margin-top: 20px;
+}
+
+.botao1 {
+    width: 95px;
+    height: 31px;
+    color: #176902;
+    border-radius: 47px;
+    background-color: #fff;
+    border-color: #176902;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.botao2 {
+    width: 196px;
+    height: 31px;
+    color: #176902;
+    border-radius: 47px;
+    background-color: #fff;
+    border-color: #176902;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.subtitulo {
+    margin: 25px 0 0 0;
+}
+
+.texto-ingredientes {
+    margin-top: 10px;
+}
+
+.video {
+    margin-top: 10px;
+}
+
+
+.texto-preparo {
+    margin-top: 10px;
+    width: 580px;
+    word-break: normal;
+}
+
+#conteudo-secundario {
+    padding: 120px;
+}
+
+.titulo2 > h4 {
+    color: #FF93B3;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.conteudo-secundario-imagem {
+    height: 390px;
+    width: 345px;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.conteudo-secundario-imagem:hover {
+    background-color: #FF93B3;
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.link {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+
+.imagem2 {
+    margin-bottom: 10px;
+}
+
+#rodape {
+    background-color: #FF93B3;
+    display: flex;
+    height: 130px;
+    align-items: center;
+}
+
+.logo-rodape {
+    margin-left: 100px;
+}
+
+.copyright {
+    color: #765637;
+    margin-left: 80px;
+}
+
+
+
+
