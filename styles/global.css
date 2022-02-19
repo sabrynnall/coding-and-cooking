@@ -8,6 +8,7 @@ body {
     background-color: #FF93B3;
     text-align: center;
     height: 110px;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
 }
 
 nav {
@@ -30,7 +31,7 @@ nav {
 }
 
 .menu-item-link {
-    color: #fff;
+    color: #FFFFFF;
     font-weight: bold;
     font-size: 15px;
     text-decoration: none;
@@ -41,7 +42,7 @@ nav {
 }
 
 .menu-item-link:hover {
-    color: #FF93B3;
+    color: #FFFFFF;
     -moz-transform: scale(1.5);
     -webkit-transform: scale(1.5);
     transform: scale(1.5);
@@ -53,11 +54,11 @@ main {
 }
 
 #conteudo-principal {
-    padding: 80px 120px;
+    padding: 50px 120px;
 }
 
 .titulo1 {
-    color: #FF93B3;
+    color: #765637;
     font-size: 30px;
 }
 
@@ -94,6 +95,7 @@ main {
 
 .subtitulo {
     margin: 25px 0 0 0;
+    font-size: 16px;
 }
 
 .texto-ingredientes {
@@ -109,14 +111,15 @@ main {
     margin-top: 10px;
     width: 580px;
     word-break: normal;
+    text-transform: lowercase;
 }
 
 #conteudo-secundario {
-    padding: 120px;
+    padding: 100px;
 }
 
 .titulo2 > h4 {
-    color: #FF93B3;
+    color: #765637;
     font-weight: 400;
     font-size: 20px;
 }
@@ -151,18 +154,15 @@ main {
 }
 
 #rodape {
-    background-color: #FF93B3;
+    background-color: #765637;
     display: flex;
     height: 130px;
     align-items: center;
-}
-
-.logo-rodape {
-    margin-left: 100px;
+    justify-content: center;
 }
 
 .copyright {
-    color: #765637;
+    color: #FFFFFF;
     margin-left: 80px;
 }
 
