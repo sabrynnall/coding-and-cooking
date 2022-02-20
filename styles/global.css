@@ -158,9 +158,9 @@ main {
 #rodape {
     background-color: #765637;
     display: flex;
-    height: 130px;
     align-items: center;
     justify-content: center;
+    height: 130px;
 }
 
 .copyright {
