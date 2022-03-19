@@ -40,7 +40,7 @@
 
 <br>
 
-Ao manipular a interface pode-se navegar entre as páginas da navegação: Início, Receitas e Contato. Além disso, é possível selecionar a receita desejada na páginal inicial e verificar as informações de ingredientes e modo de preparo.
+Ao manipular a interface pode-se navegar entre as páginas Início, Receitas e Contato. Além disso, é possível selecionar a receita desejada na páginal inicial e verificar as informações de ingredientes e modo de preparo.
 
 <br>
 
