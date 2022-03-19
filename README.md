@@ -1,5 +1,5 @@
-<h1 align="center"> SabriFy </h1>
-<p align="center"> Projeto desenvolvido com o objetivo de estudar HTML5, CSS3 e JS. </p>
+<h1 align="center"> Coding & Cooking </h1>
+<p align="center"> Projeto desenvolvido com o objetivo de estudar HTML5 e CSS3. </p>
 
 ## 📕 Índice
 
